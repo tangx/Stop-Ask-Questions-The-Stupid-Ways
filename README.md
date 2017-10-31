@@ -25,6 +25,14 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 ![manners-maketh-man.jpg](/images/manners-maketh-man.jpg)
 
+## 傻逼问题不分国界
+
+| 什么鬼？    | 咋回事？  | 怎么办？    | 救命啊！！       |
+|-------------|-------------|-------------|------------------|
+| 自己 google | 自己 google | 自己 google | 自己 google 了吗 |
+
+![googleit.png](/images/googleit.png)
+
 ## 学会描述问题
 
 > 向别人提问的时候，要学会正确的描述问题。
@@ -55,3 +63,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 ![描述不清.png](/images/stupid_questions/stupid_01.png)
 
 > 用的是什么软件需要做 https？  nginx， apache，python，go ？ 问题都描述不清楚，你让别人怎么回答你
+
+![比较正确的描述](/images/stupid_questions/stupid_01_qa.png)
+
+> 换一种问法，大家都轻松。
