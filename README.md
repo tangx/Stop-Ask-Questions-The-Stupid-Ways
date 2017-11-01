@@ -23,15 +23,8 @@ Stop-Ask-Questions-The-Stupid-Ways
 谢谢
 ```
 
-![manners-maketh-man.jpg](/images/manners-maketh-man.jpg)
+![manners-maketh-man.jpg](/images/manners-maketh-man.jpg =400)
 
-## 傻逼问题不分国界
-
-| 什么鬼？    | 咋回事？  | 怎么办？    | 救命啊！！       |
-|-------------|-------------|-------------|------------------|
-| 自己 google | 自己 google | 自己 google | 自己 google 了吗 |
-
-![googleit.png](/images/googleit.png)
 
 ## 学会描述问题
 
@@ -62,3 +55,11 @@ Stop-Ask-Questions-The-Stupid-Ways
 ## 什么是弱智一样的提问
 
 ![stupid_questions.png](/images/stupid_questions/stupid_questions.png)
+
+## 傻逼问题不分国界
+
+| 什么鬼？    | 咋回事？  | 怎么办？    | 救命啊！！       |
+|-------------|-------------|-------------|------------------|
+| 自己 google | 自己 google | 自己 google | 自己 google 了吗 |
+
+![googleit.png](/images/googleit.png)
