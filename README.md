@@ -40,8 +40,11 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 > **要知道，你不是我追的妹子，我没有时间来猜你想要什么。**
 
+> 记住，给别人的条件越多，你的问题解决越快。因为这不是解密游戏。
+
 1. 请问一个关于 `什么` 的问题。
 1. 我想要达到 `什么样` 效果，但是我这样做出现了 `什么样` 的问题。
+1. 报错日志是 `这样` 的。（要 `学会` 画关键字）
 1. 我尝试过 `什么` 方法来解决。
 1. 我尝试搜索过了 `什么` 关键字，在里面找到了 `这些 URL` 的回答，尝试了还是没有解决问题。
 1. 我用的是 `什么` 操作系统，版本号是多少。
@@ -58,12 +61,4 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 ## 什么是弱智一样的提问
 
-### 描述不清
-
-![描述不清.png](/images/stupid_questions/stupid_01.png)
-
-> 用的是什么软件需要做 https？  nginx， apache，python，go ？ 问题都描述不清楚，你让别人怎么回答你
-
-![比较正确的描述](/images/stupid_questions/stupid_01_qa.png)
-
-> 换一种问法，大家都轻松。
+![stupid_questions.png](/images/stupid_questions.png)
