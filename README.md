@@ -23,7 +23,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 谢谢
 ```
 
-![manners-maketh-man.jpg](/images/manners-maketh-man.jpg =400)
+![manners-maketh-man.jpg](/images/manners-maketh-man.jpg)
 
 
 ## 学会描述问题
