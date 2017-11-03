@@ -48,6 +48,10 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 ### 学会什么时候贴图
 
+![what-time-to-use-image.png](/images/what-time-to-use-image.png)
+
+像这种，IM 自动转义表情，贴出来的问题全是表情。
+
 
 ### 学会什么时候贴文字
 
