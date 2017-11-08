@@ -2,6 +2,12 @@
 
 Stop-Ask-Questions-The-Stupid-Ways
 
+## 你真的准备好了吗？
+
+![you-are-not-prepared.png](/images/you-are-not-prepared.png)
+
+> 感谢群友 `for you` 提供
+
 ## 提问前你必须需要知道的事情
 
 1. 要知道， `Free` 的正确翻译是 `自由`，而非 **~~`免费`~~**。
