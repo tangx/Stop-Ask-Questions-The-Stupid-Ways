@@ -29,7 +29,7 @@ Stop-Ask-Questions-The-Stupid-Ways
 谢谢
 ```
 
-![manners-maketh-man.jpg](/images/manners-maketh-man.jpg)
+![manners-maketh-man.jpg](/images/manners-maketh-man-small.png)
 
 
 ## 学会描述问题
@@ -66,7 +66,9 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 ![stupid_questions.png](/images/stupid_questions/stupid_questions.png)
 
-## 傻逼问题不分国界
+## 萌新滚粗
+
+![baiduit.jpg](/images/baiduit.jpg)
 
 | 什么鬼？    | 咋回事？  | 怎么办？    | 救命啊！！       |
 |-------------|-------------|-------------|------------------|
