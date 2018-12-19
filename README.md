@@ -62,7 +62,8 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 千万不要认为别人的频率和你是同步的，然后像这样扔出一张图一个表情就了事了。
 
-在工作中， 目标可能会多问一句什么情况。 但是在 IM 聊天群里面，必然石沉大海。
+在工作中， 你`@`的人可能会多问一句什么情况。 但是在 IM 聊天群里面，就没有这么好运气了。
+
 
 ![stupid_02-conversation.png](/images/stupid_questions/stupid_02-conversation.png)
 
