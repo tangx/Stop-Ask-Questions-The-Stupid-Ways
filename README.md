@@ -58,6 +58,22 @@ Stop-Ask-Questions-The-Stupid-Ways
 
 像这种，IM 自动转义表情，贴出来的问题全是表情。
 
+### 学会什么时候要圈出重点
+
+千万不要认为别人的频率和你是同步的，然后像这样扔出一张图一个表情就了事了。
+
+在工作中， 目标可能会多问一句什么情况。 但是在 IM 聊天群里面，必然石沉大海。
+
+![stupid_02-conversation.png](/images/stupid_questions/stupid_02-conversation.png)
+
+如下很难吗？
+
+```
+@xxx，我这边访问不了 git 仓库。
+环境是: 环境是什么。
+```
+
+![stupid_02-no-target.png](/images/stupid_questions/stupid_02-no-target.png)
 
 ### 学会什么时候贴文字
 
