@@ -5,8 +5,6 @@ Stop-Ask-Questions-The-Stupid-Ways
 ## 短域名服务
 
 + https://git.io/how-to-ask
-+ https://git.io/asking-question
-+ https://git.io/stop-stupid
 
 
 ## 你真的准备好了吗？
